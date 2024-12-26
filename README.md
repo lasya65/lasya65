@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lasya
 
-Welcome to my GitHub profile! I'm a passionate coder with a knack for solving problems, crafting clean code, and diving deep into the nitty-gritty of technology. Whether it's a complex algorithm, a sleek UI, or a backend built for performance, I thrive on building things that just **work**.
+Welcome to my GitHub profile! I'm an engineering student in CSE Cyber Security, a coding enthusiast, and a relentless problem-solver with a passion for creating impactful tech solutions. 🚀 I believe in pushing boundaries, thinking out of the box, and continuously learning to stay ahead in this fast-paced tech world.
 
 ## 🚀 What You'll Find Here
 
