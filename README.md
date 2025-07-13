@@ -9,7 +9,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"
 </div>
