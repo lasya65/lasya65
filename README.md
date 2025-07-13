@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"
-  
+  <img width="12" />
 </div>
 
 ###
